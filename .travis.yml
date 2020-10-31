@@ -5,8 +5,8 @@ jdk:
 
 addons: 
 	sonarcloud:
-		organization: fedegatti
-		token: 3cfa8f30332cc121d05f7ff45ef9bc5015677ddd
+		organization: "fedegatti"
+		token: "3cfa8f30332cc121d05f7ff45ef9bc5015677ddd"
  		
 
 script:
